@@ -1,0 +1,51 @@
+{
+	"_meta": {
+		"internalCopies": [
+			"race"
+		]
+	},
+	"race": [
+		{
+			"name": "Test Race 1",
+			"source": "ZHC",
+			"page": 1,
+			"lineage": "VRGR",
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"traitTags": [
+				"NPC Race"
+			],
+			"languageProficiencies": [
+				{
+					"draconic": true
+				}
+			]
+		},
+		{
+			"name": "Test Race 2",
+			"source": "ZHC",
+			"page": 1,
+			"lineage": "VRGR",
+			"size": [
+				"S",
+				"M"
+			],
+			"speed": {
+				"walk": 30
+			},
+			"traitTags": [
+				"NPC Race"
+			],
+			"languageProficiencies": [
+				{
+					"draconic": true
+				}
+			]
+		}
+	]
+}
